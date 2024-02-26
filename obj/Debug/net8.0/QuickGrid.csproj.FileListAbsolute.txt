@@ -1034,3 +1034,4 @@
 /Users/home/Desktop/QuickGrid/QuickGrid/obj/Debug/net8.0/refint/QuickGrid.dll
 /Users/home/Desktop/QuickGrid/QuickGrid/obj/Debug/net8.0/QuickGrid.pdb
 /Users/home/Desktop/QuickGrid/QuickGrid/obj/Debug/net8.0/ref/QuickGrid.dll
+/Users/home/Desktop/QuickGrid/QuickGrid/obj/Debug/net8.0/QuickGrid.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M6eOd7sc00i54WMU9DJXbwDAoRfzeafyD9SL4OSAbFg=",
+  "Hash": "K+jLKSAdA8CEo358W8+KXXMYpw1m+11qfwAcBoZ7qHc=",
   "Source": "QuickGrid",
   "BasePath": "/",
   "Mode": "Root",
@@ -7995,6 +7995,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/home/Desktop/QuickGrid/QuickGrid/wwwroot/js/dialog.js",
+      "SourceId": "QuickGrid",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/home/Desktop/QuickGrid/QuickGrid/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "js/dialog.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/dialog.js"
     },
     {
       "Identity": "/Users/home/Desktop/QuickGrid/QuickGrid/wwwroot/sample-data/weather.json",

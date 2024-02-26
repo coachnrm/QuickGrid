@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/home/Desktop/QuickGrid/QuickGrid/wwwroot/js/dialog.js",
+      "PackagePath": "staticwebassets/js/dialog.js"
+    },
+    {
       "Id": "/Users/home/Desktop/QuickGrid/QuickGrid/wwwroot/sample-data/weather.json",
       "PackagePath": "staticwebassets/sample-data/weather.json"
     },
